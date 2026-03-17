@@ -20,22 +20,19 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 
-**CIRCUIT DIAGRAM:**
+**CIRCUIT DIAGRAM AND TABULATION:**
 
-
-
-
-**TABULATION:**
-
-
-**Calculation:**
-
+<img width="1022" height="1600" alt="image" src="https://github.com/user-attachments/assets/4d2d7b46-a92c-4db2-88cd-6efc2d5f067f" />
 
 
 **Marksplitup:**
 
+<img width="1159" height="1600" alt="image" src="https://github.com/user-attachments/assets/589db100-cae1-4fc6-b559-18db517aa327" />
+
 
 **RESULT:**
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c4acc105-5c5d-4115-9fbf-df95ac809e47" />
 
 Thus the transient analysis of series RLC circuit is done practically using Multisim Simulator.
  
